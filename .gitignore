@@ -1,0 +1,40 @@
+# Everything about Python
+/.cache
+/build
+/dist
+*.egg-info
+__pycache__
+*_env
+*_venv
+*.pdf
+
+# Tests
+.coverage*
+htmlcov
+
+
+# Local configuration
+/conf
+deploythat.yml
+
+# Data added during install
+.env
+bash_completion
+
+# Data in Home
+/home
+
+# Logs
+/logs
+
+# Services data
+/data
+/www
+
+# Plugins
+/plugins
+/services
+
+# ReadTheDocs
+/docs/_build
+/docs/_build_html
